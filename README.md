@@ -14,3 +14,6 @@ Finally in gold layer, serving using Synapse.
 
 Connection build from Synapse to Power Bi for data viz.
 
+![image](https://github.com/user-attachments/assets/54890894-1242-4e38-87e9-0a8b810bbabb)
+
+
